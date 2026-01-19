@@ -18,3 +18,6 @@ MS COCO, PASCAL VOC, and OpenImages.
    python src/import_voc.py
    python src/import_openimages.py
    ```
+## Documantation
+📄 Paper (PDF): [Download here](Paper/CVAMS.pdf)
+
